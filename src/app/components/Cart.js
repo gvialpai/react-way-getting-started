@@ -5,6 +5,7 @@ import Item from './Item';
  * @class Cart
  * @extends React.Component
  */
+
 class Cart extends React.Component {
 
   /*
